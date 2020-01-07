@@ -15,7 +15,6 @@ import "./App.css";
 function App() {
   return (
     <React.Fragment>
-      <ToastContainer />
       <NavBar />
       <main className="container">
         <Switch>
